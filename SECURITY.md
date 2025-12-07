@@ -9,7 +9,6 @@ This project provides security updates for the following versions:
 | 1.x     | :white_check_mark: |
 | 0.x     | :x:                |
 
-> Update these version numbers as your project evolves. For a new project like drew.lol, just track the current release.
 
 ## Reporting a Vulnerability
 
